@@ -7,7 +7,9 @@ I'm a front-end developer with five years of experience working on multiple proj
 
 :page_facing_up: LinkedIn profile: https://www.linkedin.com/in/alexrocchia/
 
-<!---
-Alexrocchi/Alexrocchi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Skills:
+
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,jquery,git,figma)](https://www.linkedin.com/in/alexrocchia/details/skills/)
+
+# Projects:
+[![My Skills](https://skills.thijs.gg/icons?i=vue)](https://github.com/Alexrocchi/VueJs) __ Real World Vue 3
