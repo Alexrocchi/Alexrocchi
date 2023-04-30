@@ -5,7 +5,8 @@ I'm a front-end developer with five years of experience working on multiple proj
 
 🌱 Currently, I am focused on expanding my knowledge in web application development using various JavaScript frameworks, including Angular, React, and Vue.. I want to take advantage of this space to be able to share with you my learning and personal challenges.
 
-:page_facing_up: LinkedIn profile: https://www.linkedin.com/in/alexrocchia/
+<p>:page_facing_up: LinkedIn profile: https://www.linkedin.com/in/alexrocchia/</p>
+<p>:pencil2: Behance Portfolio: https://www.behance.net/alexandra-rocchi</p>
 
 # Skills:
 
