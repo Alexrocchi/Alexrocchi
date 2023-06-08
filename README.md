@@ -17,6 +17,11 @@ I'm a front-end developer with five years of experience working on multiple proj
 ------------------------------------------------------------------
 
 # Projects:
-## [![My Skills](https://skills.thijs.gg/icons?i=vue)](https://github.com/Alexrocchi/VueJs) __ Real World Vue 3
 
-## [![My Skills](https://skills.thijs.gg/icons?i=styledcomponents,react)](https://github.com/Alexrocchi/React_Styled-Components) __ Styled Components V5
+[![My Skills](https://skills.thijs.gg/icons?i=vue)](https://github.com/Alexrocchi/VueJs) 
+  > 🚧 Under construction 🚧 
+### Real World Vue 3 
+
+</br></br>
+[![My Skills](https://skills.thijs.gg/icons?i=styledcomponents,react)](https://github.com/Alexrocchi/React_Styled-Components) 
+### Styled Components V5
