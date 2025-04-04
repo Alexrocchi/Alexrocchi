@@ -12,16 +12,16 @@ I'm a front-end developer with five years of experience working on multiple proj
 
 # Skills:
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,jquery,git,gulp,pug,bootstrap,figma,photoshop,illustrator)](https://www.linkedin.com/in/alexrocchia/details/skills/)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,react,vue,ts,git,sass,styledcomponents,gulp,pug,bootstrap,figma,photoshop,illustrator&perline=8)](https://www.linkedin.com/in/alexrocchia/details/skills/)
 
 ------------------------------------------------------------------
 
 # Projects:
 
-[![My Skills](https://skills.thijs.gg/icons?i=vue)](https://github.com/Alexrocchi/VueJs) 
+[![My Skills](https://skillicons.dev/icons?i=vue)](https://github.com/Alexrocchi/VueJs) 
   > 🚧 Under construction 🚧 
 ### Real World Vue 3 
 
 </br></br>
-[![My Skills](https://skills.thijs.gg/icons?i=styledcomponents,react)](https://github.com/Alexrocchi/React_Styled-Components) 
+[![My Skills](https://skillicons.dev/icons?i=styledcomponents,react)](https://github.com/Alexrocchi/React_Styled-Components) 
 ### Styled Components V5
