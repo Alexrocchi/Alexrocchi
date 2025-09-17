@@ -25,3 +25,7 @@ I'm a front-end developer with five years of experience working on multiple proj
 </br></br>
 [![My Skills](https://skillicons.dev/icons?i=styledcomponents,react)](https://github.com/Alexrocchi/React_Styled-Components) 
 ### Styled Components V5
+
+</br></br>
+[![My Skills](https://skillicons.dev/icons?i=nextjs)](https://github.com/Alexrocchi/NextJS) 
+### Learning NextJs
